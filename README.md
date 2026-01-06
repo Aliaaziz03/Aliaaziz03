@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alia Alesya
+# 👋 Hi, I'm Nur Alia Alesya
 
 📱 Aspiring **Mobile Developer** specializing in **Flutter**  
 🎓 Computer Science (Mobile Computing) student at UiTM  
