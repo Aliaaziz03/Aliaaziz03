@@ -15,6 +15,18 @@
 
 ---
 
+## 📱 Featured Projects
+### 🛍️ Try On Room App (FYP)
+- Flutter mobile application
+- Firebase user data management
+- 3D avatar & clothing visualization
+- Augmented Reality try-on experience
+
+🔗 Repo: https://github.com/Aliaaziz03/Try-On-Room-Application_FYP
+
+---
+
+
 📫 **Contact**  
 📧 Email: nuraliaalesya03@gmail.com  
 🔗 LinkedIn: Nur Alia Alesya
