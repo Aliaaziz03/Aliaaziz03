@@ -24,6 +24,13 @@
 
 🔗 Repo: https://github.com/Aliaaziz03/Try-On-Room-Application_FYP
 
+### 🩸 Period Tracker App
+- Flutter Mobile Application  
+- Firebase Auth & Firestore  
+- Biometric Authentication & Health Tracking  
+
+🔗 Repo: https://github.com/Aliaaziz03/Period-Tracker-App
+
 ---
 
 
