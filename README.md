@@ -38,6 +38,14 @@
 
 🔗 Repo: https://github.com/Illailanadiah/scholarme
 
+### 📣 EventEcho App
+- Flutter  
+- Firebase Authentication & Firestore  
+- Real-Time Event Updates & Push Notifications  
+- Offline Access Support  
+
+🔗 Repo: https://github.com/Aliaaziz03/EchoEvent
+
 ---
 
 
