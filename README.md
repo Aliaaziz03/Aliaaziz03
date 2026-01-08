@@ -31,6 +31,13 @@
 
 🔗 Repo: https://github.com/Aliaaziz03/Period-Tracker-App
 
+### 🎓 ScholarMe! App
+- Flutter  
+- Firebase Authentication & Database  
+- AI-Based Scholarship Recommendation  
+
+🔗 Repo: https://github.com/Illailanadiah/scholarme
+
 ---
 
 
