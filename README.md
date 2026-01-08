@@ -51,5 +51,5 @@
 
 📫 **Contact**  
 📧 Email: nuraliaalesya03@gmail.com  
-🔗 LinkedIn: Nur Alia Alesya
+💼 LinkedIn: https://www.linkedin.com/in/nur-alia-alesya-a753b0335/
 
