@@ -36,7 +36,7 @@
 - Firebase Authentication & Database  
 - AI-Based Scholarship Recommendation  
 
-🔗 Repo: https://github.com/Illailanadiah/scholarme
+🔗 Repo: https://github.com/Aliaaziz03/scholarme
 
 ### 📣 EventEcho App
 - Flutter  
